@@ -1,3 +1,4 @@
+package com.gildrose.item;
 
 public class Item {
     public String name;
