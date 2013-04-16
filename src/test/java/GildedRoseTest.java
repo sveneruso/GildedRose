@@ -5,8 +5,12 @@ import org.junit.Test;
 
 public class GildedRoseTest {
 
-	@Test
-	public void testTheTruth() {
-		assertTrue(true);
-	}
+    private GildedRose gildedRose;
+    private Item item;
+
+
+    @Test
+    public void test_common_item() {
+
+    }
 }
